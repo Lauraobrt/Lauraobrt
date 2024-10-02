@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**Lauraobrt/Lauraobrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ola, bem vindo
+estou criando esse repositorio para a minha aula de tecnologia
 
 
 
